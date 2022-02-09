@@ -1,0 +1,13 @@
+.App{
+border: 7px rebeccapurple solid ;
+}
+.card {
+     border: 6px rgb(67, 40, 78) solid ; 
+}
+.About{
+    border: rgb(42, 2, 58) 5px solid;
+}
+img{
+    width: 50px;
+    height: 50px;
+}
